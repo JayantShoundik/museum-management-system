@@ -1,0 +1,10 @@
+museum-management-system/
+   ├── src/
+   │    └── muesummanagement.java        # Main Java file (DB connections)
+   ├── database/
+   │    ├── museum_db.sql             # Museum database dump
+   │    ├── employees_db.sql          # Employees database dump
+   │    ├── visitor_db.sql            # Visitor database dump
+   │    └── jayant_db.sql              # Additional DB (if any)
+   ├── README.md
+   └── .gitignore
